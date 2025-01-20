@@ -214,7 +214,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <name>Antilia</name>
       <description>Mukesh Ambani's residence, one of the most expensive homes in the world.</description>
       <Point>
-        <coordinates>72.8090,18.9683</coordinates>
+        <coordinates>72.8087,18.9682</coordinates>
       </Point>
       <Style>
         <IconStyle>
@@ -234,11 +234,11 @@ xmlns:atom="http://www.w3.org/2005/Atom">
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>
-              72.8080,18.9689,0
-              72.8105,18.9689,0
-              72.8105,18.9665,0
-              72.8080,18.9665,0
-              72.8080,18.9689,0
+              72.8080,18.9691,0
+              72.8102,18.9691,0
+              72.8102,18.9670,0
+              72.8080,18.9670,0
+              72.8080,18.9691,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -248,24 +248,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
           <color>7dffcc00</color>
           <outline>1</outline>
         </PolyStyle>
-      </Style>
-    </Placemark>
-
-    <Placemark>
-      <name>Main Altamount Road</name>
-      <description>The primary route through the affluent area.</description>
-      <LineString>
-        <coordinates>
-          72.8080,18.9685,0
-          72.8090,18.9675,0
-          72.8100,18.9665,0
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>ff0000ff</color>
-          <width>4</width>
-        </LineStyle>
       </Style>
     </Placemark>
 
