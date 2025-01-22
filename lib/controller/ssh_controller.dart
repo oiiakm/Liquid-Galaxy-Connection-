@@ -474,8 +474,7 @@ Future<SSHSession?> sendLogo() async {
                 <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
                 <screenXY x="0.02" y="1" xunits="fraction" yunits="fraction"/>
                 <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-                <!-- Set the size to 30x30 -->
-                <size x="500" y="500" xunits="pixels" yunits="pixels"/>
+                <size x="0" y="0" xunits="pixels" yunits="pixels"/>
             </ScreenOverlay>
         </Folder>
     </Document>
